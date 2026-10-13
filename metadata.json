@@ -1,0 +1,7 @@
+{
+  "name": "G-squad Auto Trading Bot",
+  "description": "Automated Deriv trading bot with algorithmic strategies, Martingale risk control, and real-time execution.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
